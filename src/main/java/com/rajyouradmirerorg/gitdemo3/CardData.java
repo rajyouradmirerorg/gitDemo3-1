@@ -6,12 +6,11 @@ package com.rajyouradmirerorg.gitdemo3;
 
 public class CardData implements java.io.Serializable {
 
-    static final long serialVersionUID = 1L;
+	static final long serialVersionUID = 1L;
 
-    public CardData() {
-    }
+	public CardData() {
 
-
-
+		System.out.println();
+	}
 
 }
